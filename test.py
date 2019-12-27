@@ -3,6 +3,7 @@ def main():
     print("Va chier")
     print("MEEEEEEEEERRRRRRRDDDDDEEEEEEEE")
     print("HALLELUHYAH!")
+    print("HAHAHAHAHAHAHHAHAHA")
 
 
 if __name__ == '__main__':
